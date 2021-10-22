@@ -1,3 +1,7 @@
 FROM centos
-RUN  yum update -y && yum install git net-tools -y httpd
-EXPOSE 80
+WORKDIR /startup
+ADD startup.sh ./
+RUN chmod +x startup.sh
+RUN ./startup.sh
+ENTRYPOINT [ "rippled" ]
+EXPOSE 51235 5005 6006
