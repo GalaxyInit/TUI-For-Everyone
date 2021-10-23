@@ -1,0 +1,24 @@
+#include <stdio.h>
+ 
+int main () {
+   int number[10]; /* number is an array of 10 integers */
+   int i = 0;
+ 
+   /* Initialize elements of array n to 0 */         
+   while( i < 10 ) {
+	
+      /* Set element at location i to i + 100 */
+      number[ i ] = i + 100;
+      i = i + 1;
+   }
+   
+   /* Output each array element's value */
+   i = 0;
+   while( i < 10 ) {
+	
+      printf("number[%d] = %d\n", i, number[i] );
+      i = i + 1;
+   }
+   
+   return 0;
+}
