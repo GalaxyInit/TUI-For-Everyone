@@ -1,2 +1,4 @@
 #Base image
 FROM python:3.7.12
+#workdir
+WORKDIR /code
