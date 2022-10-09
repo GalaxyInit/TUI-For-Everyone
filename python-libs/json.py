@@ -1,4 +1,4 @@
-"""Library that helps in image formatting
+"""Library that helps in finding values from json data/dict
 To Install lib : pip install jmespath
 """
 import jmespath
