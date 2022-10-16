@@ -4,6 +4,7 @@ def merge_the_tools(string, k):
     for item in string:
         len_temp += 1
         if item not in temp:
+            #newcode
             temp.append(item)
         if len_temp == k:
             print (''.join(temp))
