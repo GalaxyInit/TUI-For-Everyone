@@ -3,7 +3,7 @@ from PIL import ImageGrab
 import time
 
 def pressKey(key):
-    pyautogui.keyDown(key)
+    pyautogui.keyDown(key) #declaring presskey function
     return
 
 def isCollision(data):
