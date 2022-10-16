@@ -1,3 +1,4 @@
+#program
 import pygame
 from tkinter import *
 from screen import ScreenVisual
