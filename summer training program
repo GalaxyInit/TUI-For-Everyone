@@ -16,7 +16,6 @@ public:
 Node *head = new Node();
 
 // Check Function to check that if
-// Record Already Exist or Not
 bool check(int x)
 {
     // Base Case
