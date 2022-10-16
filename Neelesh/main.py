@@ -188,3 +188,5 @@ while run:
         elif sortMethod == "Merge Sort":
             mergeSort(arr)
         break
+
+        # added some comments in the code
