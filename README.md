@@ -8,5 +8,3 @@
 
 It this project we are trying to create a menu driven program for terminal in which <br>
 some of the daily program/applications will be embeded for easier use.
-
-This is Hacktobberfest Trial 01 - By AdityaMani
