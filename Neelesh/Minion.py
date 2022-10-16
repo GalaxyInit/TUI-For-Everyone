@@ -8,6 +8,8 @@ def minion_game(string):
            vowel+=(s-i)
         else:
            consonant+=(s-i)
+           #Hello
+
                 
     if vowel < consonant:
         print('Stuart ' + str(consonant))
