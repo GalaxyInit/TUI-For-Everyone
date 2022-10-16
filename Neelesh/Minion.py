@@ -1,3 +1,4 @@
+#datta
 def minion_game(string):
     s=len(string)
     vowel = 0
