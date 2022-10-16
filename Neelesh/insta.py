@@ -22,3 +22,4 @@ for follower_profile in followers:
 print("These idots don't follow you back")
 for i, user in enumerate(arr):
     print(i+1,user)
+    print('u have to unfollow them')
