@@ -25,6 +25,7 @@ class ScreenVisual():
                 grid[i].append(color)
 
         return grid
+        #screenmodeon
 
     def draw_grid(self):
         """This function draws grids on pygame screen"""
