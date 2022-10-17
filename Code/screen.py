@@ -1,3 +1,4 @@
+#python
 import pygame
 from tkinter import *
 from random import randint
