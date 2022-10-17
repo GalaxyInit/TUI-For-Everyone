@@ -7,3 +7,4 @@
 3. Install libraries with `pip3 install -r requirements.txt` or `python3 -m pip install -r requirements.txt`
 4. Open `AutomatedChromeDinosaur.py` and adjust the values of rectangle for birds and cactus
 5. Run `AutomatedChromeDinosaur.py` and open Chrome Dinosaur
+#5623
