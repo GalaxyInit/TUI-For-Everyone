@@ -15,7 +15,5 @@ int main() {
 
    printf( "number1: %d\n", number1);
    printf( "number2: %d\n", number2);
-   printf( "number3: %d\n", number3);
-   printf( "number4: %d\n", number4);
    printf( "number5: %d\n", number5);
 }
